@@ -1,3 +1,0 @@
-export const resta = (num1, num2) => {
-    return num1 - num2;
-}
